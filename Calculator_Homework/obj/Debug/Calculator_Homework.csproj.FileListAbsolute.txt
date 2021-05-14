@@ -1,0 +1,10 @@
+C:\Users\LENOVO\Documents\OOP\Calculator_Homework\bin\Debug\Calculator_Homework.exe.config
+C:\Users\LENOVO\Documents\OOP\Calculator_Homework\bin\Debug\Calculator_Homework.exe
+C:\Users\LENOVO\Documents\OOP\Calculator_Homework\bin\Debug\Calculator_Homework.pdb
+C:\Users\LENOVO\Documents\OOP\Calculator_Homework\obj\Debug\Calculator_Homework.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\OOP\Calculator_Homework\obj\Debug\Calculator_Homework.Form1.resources
+C:\Users\LENOVO\Documents\OOP\Calculator_Homework\obj\Debug\Calculator_Homework.Properties.Resources.resources
+C:\Users\LENOVO\Documents\OOP\Calculator_Homework\obj\Debug\Calculator_Homework.csproj.GenerateResource.cache
+C:\Users\LENOVO\Documents\OOP\Calculator_Homework\obj\Debug\Calculator_Homework.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\OOP\Calculator_Homework\obj\Debug\Calculator_Homework.exe
+C:\Users\LENOVO\Documents\OOP\Calculator_Homework\obj\Debug\Calculator_Homework.pdb
